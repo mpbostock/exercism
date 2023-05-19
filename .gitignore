@@ -1,0 +1,15 @@
+**/.idea/
+**/.gradle/
+**/.bsp/
+**/.exercism/
+**/build/
+**/target/
+**/test/
+**README.md
+**HELP.md
+**build.gradle.kts
+**settings.gradle.kts
+**build.properties
+**build.sbt
+**gradle-wrapper*
+**gradlew*
