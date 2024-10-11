@@ -9,8 +9,9 @@
 **/node_modules/
 **README.md
 **HELP.md
+**HINTS.md
 **LICENSE
-**build.gradle.kts
+**build.gradle**
 **settings.gradle.kts
 **build.properties
 **build.sbt
