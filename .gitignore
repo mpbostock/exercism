@@ -1,4 +1,5 @@
 **/.idea/
+**/*.iml
 **/.gradle/
 **/.bsp/
 **/.exercism/
@@ -22,3 +23,6 @@
 **babel.config.js
 **spec.js
 **package*.json
+**_test.rb
+**/.ruby-version
+
